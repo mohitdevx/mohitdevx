@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/mohitdevx/mohitdevx/blob/main/github.png" alt="My GitHub Profile Banner" width="100%">
+  <img src="https://github.com/mohitdevx/mohitdevx/blob/main/github-img.png" alt="My GitHub Profile Banner" width="100%">
 </div>
