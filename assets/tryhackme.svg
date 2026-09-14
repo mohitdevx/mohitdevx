@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="48" viewBox="0 0 182 48" fill="none">
+  <defs>
+    <linearGradient id="thm-bg" x1="0" y1="0" x2="182" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="thm-border" x1="0" y1="0" x2="182" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#DC2626" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="thm-icon-bg" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Glass Frame -->
+  <rect x="1" y="1" width="180" height="46" rx="10" fill="url(#thm-bg)" stroke="url(#thm-border)" stroke-width="1.5"/>
+
+  <!-- Subtle Inner Light Accent -->
+  <line x1="12" y1="2" x2="170" y2="2" stroke="white" stroke-opacity="0.08" stroke-linecap="round"/>
+
+  <!-- Icon Container Box -->
+  <rect x="9" y="8" width="32" height="32" rx="8" fill="url(#thm-icon-bg)" stroke="#EF4444" stroke-width="1" stroke-opacity="0.3"/>
+  <g transform="translate(15, 14) scale(0.833)">
+    <path fill="#EF4444" d="M12 2L3 7v10l9 5 9-5V7l-9-5zm0 2.24L18.47 8 12 11.59 5.53 8 12 4.24zM4.8 9.35l6.4 3.56v7.33l-6.4-3.56V9.35zm8 10.89v-7.33l6.4-3.56v7.33l-6.4 3.56z"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="49" y="20" fill="#EF4444" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">SECURITY LAB</text>
+  <text x="49" y="35" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700">TryHackMe</text>
+</svg>

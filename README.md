@@ -10,23 +10,32 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi%2C+I'm+Mohit+Kumar+%F0%9F%91%8B;Full-Stack+MERN+Developer;Cybersecurity+%26+AppSec+Enthusiast;Linux+Power+User+%26+Python+Scripter;Securing+the+Modern+Web" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>🎓 Pre-Final Year B.Tech CSE (IoT & Cybersecurity) | Diploma in CSE</strong> • 
-    <strong>⚡ Penetration Testing & API Testing</strong> • 
-    <strong>🐧 Linux & Python Automation</strong>
-  </p>
+</div>
 
-  <p align="center">
-    I am a Full-Stack MERN developer transitioning into the world of <strong>Cybersecurity</strong>.<br>
-    I bridge the gap between building scalable web applications and securing them.
-  </p>
+> ### ⚡ Full-Stack Developer with a Security-First Mindset
+> 
+> Hey, I'm **Mohit Kumar** (`@mohitdevx`). I'm a full-stack developer who genuinely enjoys building scalable, dependable web applications — from crafting clean, responsive frontends to architecting reliable backends and well-structured APIs.
+> 
+> Holding a **Diploma in CSE** and currently in my **Pre-Final Year of B.Tech (IoT & Cybersecurity)**, security is a core consideration in how I write code. I apply solid cybersecurity principles throughout development — focusing on **API security testing**, hardening auth flows, protecting user data, and catching vulnerabilities early before they ever reach production.
+> 
+> I also handle everyday DevOps requirements using **Docker** and **Linux**, containerizing applications to ensure environments stay smooth and consistent from local development to deployment.
 
-  <!-- Sleek Quick Badges -->
+<div align="center">
+
+  <!-- Handcrafted Glassmorphic Platform Cards -->
   <p align="center">
-    <a href="https://tryhackme.com/p/mohitdevx"><img src="https://img.shields.io/badge/TryHackMe-mohitdevx-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-    <a href="https://github.com/mohitdevx"><img src="https://img.shields.io/badge/GitHub-mohitdevx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://tryhackme.com/p/mohitdevx" target="_blank">
+      <img src="assets/tryhackme.svg" alt="TryHackMe" height="46" />
+    </a>
+    <a href="https://github.com/mohitdevx" target="_blank">
+      <img src="assets/github.svg" alt="GitHub" height="46" />
+    </a>
+    <a href="https://www.linkedin.com/in/" target="_blank">
+      <img src="assets/linkedin.svg" alt="LinkedIn" height="46" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="assets/email.svg" alt="Email" height="46" />
+    </a>
   </p>
 
 </div>
@@ -114,14 +123,48 @@
 
 ---
 
-### 🛡️ Cybersecurity Profiles
+### 🛡️ Cybersecurity & AppSec Operations
 
-<div align="center">
-  <p>Active penetration testing and security learning on TryHackMe:</p>
-  <a href="https://tryhackme.com/p/mohitdevx" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mohitdevx.png" alt="TryHackMe Badge" style="border-radius: 8px; max-width: 100%;" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <p align="center">
+        <img src="https://img.shields.io/badge/TRYHACKME-VERIFIED_LABS-A00000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+      </p>
+      <a href="https://tryhackme.com/p/mohitdevx" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/mohitdevx.png" alt="TryHackMe Profile Badge" style="border-radius: 8px; max-width: 100%;" />
+      </a>
+      <p align="center">
+        <a href="https://tryhackme.com/p/mohitdevx"><img src="https://img.shields.io/badge/Profile-mohitdevx-red?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Link" /></a>
+        <img src="https://img.shields.io/badge/Status-Active_Hacker-22c55e?style=flat-square" alt="Status" />
+      </p>
+    </td>
+    <td width="55%" valign="top">
+      <h4>⚔️ Platforms & Continuous Practice</h4>
+      <p>
+        <a href="https://tryhackme.com/p/mohitdevx"><img src="https://img.shields.io/badge/TryHackMe-Ranked_Learner-A00000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/PortSwigger_Academy-Web_Security-E0662A?style=flat-square&logo=portswigger&logoColor=white" />
+        <img src="https://img.shields.io/badge/OWASP-API_Security-000000?style=flat-square&logo=owasp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux_Labs-Bandit_Hardened-333333?style=flat-square&logo=linux&logoColor=white" />
+      </p>
+      <h4>🎯 Core Security Toolset</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nmap-004088?style=flat-square&logo=nmap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metasploit-13294B?style=flat-square&logo=metasploit&logoColor=white" />
+      </p>
+      <h4>🔍 Methodologies & Tradecraft</h4>
+      <p>
+        • <strong>API Security Testing:</strong> Authentication mechanisms, BOLA / IDOR detection, REST endpoints<br>
+        • <strong>Web Pentesting:</strong> OWASP Top 10 vulnerabilities (XSS, SQLi, SSRF, CSRF, Access Controls)<br>
+        • <strong>Recon & Automation:</strong> Service enumeration, OSINT, and custom Python/Bash security scripts
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -133,11 +176,19 @@
     Open to discussions on security research, full-stack development, open-source projects, and CTF challenges!
   </p>
 
-  <p>
-    <a href="https://github.com/mohitdevx"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://tryhackme.com/p/mohitdevx"><img src="https://img.shields.io/badge/TryHackMe-A00000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <p align="center">
+    <a href="https://tryhackme.com/p/mohitdevx" target="_blank">
+      <img src="assets/tryhackme.svg" alt="TryHackMe" height="42" />
+    </a>
+    <a href="https://github.com/mohitdevx" target="_blank">
+      <img src="assets/github.svg" alt="GitHub" height="42" />
+    </a>
+    <a href="https://www.linkedin.com/in/" target="_blank">
+      <img src="assets/linkedin.svg" alt="LinkedIn" height="42" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="assets/email.svg" alt="Email" height="42" />
+    </a>
   </p>
 
   <br>
