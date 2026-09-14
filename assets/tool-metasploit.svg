@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="30" viewBox="0 0 118 30" fill="none">
+  <defs>
+    <linearGradient id="bg-tool-metasploit" x1="0" y1="0" x2="118" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="border-tool-metasploit" x1="0" y1="0" x2="118" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="0.5" y="0.5" width="117" height="29" rx="6" fill="url(#bg-tool-metasploit)" stroke="url(#border-tool-metasploit)" stroke-width="1"/>
+  <line x1="8" y1="1.5" x2="110" y2="1.5" stroke="white" stroke-opacity="0.07" stroke-linecap="round"/>
+
+  <!-- Icon box -->
+  <rect x="5" y="5" width="20" height="20" rx="4" fill="#3B82F6" fill-opacity="0.15" stroke="#3B82F6" stroke-opacity="0.3" stroke-width="0.8"/>
+  <g transform="translate(8, 8) scale(0.583)">
+    <path fill="#3B82F6" d="M12 2L2 7v10l10 5 10-5V7l-10-5zm0 2.2L19.2 8 12 11.8 4.8 8 12 4.2zm-7 5.1l6 3.1v7.6l-6-3V9.3zm14 7.7l-6 3v-7.6l6-3.1v7.7z"/>
+  </g>
+
+  <!-- Text -->
+  <text x="32" y="19" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.3">Metasploit</text>
+</svg>

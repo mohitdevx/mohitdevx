@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="28" viewBox="0 0 130 28" fill="none">
+  <rect x="0.5" y="0.5" width="129" height="27" rx="5" fill="#10141D" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+  <g transform="translate(8, 6) scale(0.667)">
+    <path fill="#38BDF8" d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+  </g>
+  <text x="28" y="18" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="800" letter-spacing="1.2">LANGUAGES</text>
+</svg>

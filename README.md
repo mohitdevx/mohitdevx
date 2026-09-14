@@ -88,7 +88,7 @@
 <table width="100%">
   <tr>
     <td width="32%" valign="middle">
-      <img src="https://img.shields.io/badge/LANGUAGES-10141D?style=for-the-badge&logo=codefactor&logoColor=38BDF8" /><br>
+      <img src="assets/cat-languages.svg" alt="Languages" /><br>
       <sub><strong>Core Scripting & Systems</strong><br>Python • Bash • C/C++ • JS • TS</sub>
     </td>
     <td width="68%" align="center" valign="middle">
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td width="32%" valign="middle">
-      <img src="https://img.shields.io/badge/FULL--STACK-10141D?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+      <img src="assets/cat-fullstack.svg" alt="Full-Stack" /><br>
       <sub><strong>Web Architecture & DB</strong><br>React • Next.js • Node • Express • Mongo</sub>
     </td>
     <td width="68%" align="center" valign="middle">
@@ -110,7 +110,7 @@
   </tr>
   <tr>
     <td width="32%" valign="middle">
-      <img src="https://img.shields.io/badge/SECURITY%20%26%20OPS-10141D?style=for-the-badge&logo=kalilinux&logoColor=55CDFC" /><br>
+      <img src="assets/cat-security.svg" alt="Security & Ops" /><br>
       <sub><strong>AppSec, Environments & Tooling</strong><br>Kali • Arch • Docker • Postman • Git</sub>
     </td>
     <td width="68%" align="center" valign="middle">
@@ -127,34 +127,37 @@
 
 <table width="100%">
   <tr>
-    <td width="45%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
+      <h4>🛡️ TryHackMe Security Profile</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/TRYHACKME-VERIFIED_LABS-A00000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+        <a href="https://tryhackme.com/p/mohitdevx" target="_blank">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/mohitdevx.png" alt="TryHackMe Profile Badge" style="border-radius: 8px; max-width: 92%;" />
+        </a>
       </p>
-      <a href="https://tryhackme.com/p/mohitdevx" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/mohitdevx.png" alt="TryHackMe Profile Badge" style="border-radius: 8px; max-width: 100%;" />
-      </a>
-      <p align="center">
-        <a href="https://tryhackme.com/p/mohitdevx"><img src="https://img.shields.io/badge/Profile-mohitdevx-red?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Link" /></a>
-        <img src="https://img.shields.io/badge/Status-Active_Hacker-22c55e?style=flat-square" alt="Status" />
-      </p>
+      <div align="left">
+        <pre><code><b>┌──[ mohit@thm-lab ]</b>
+<b>├─ Target:</b>   API &amp; Web AppSec
+<b>├─ Focus:</b>    OWASP Top 10, Auth Testing
+<b>├─ Tools:</b>    Burp Suite, Postman, Nmap
+<b>└─ Status:</b>   Active Security Learner</code></pre>
+      </div>
     </td>
-    <td width="55%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h4>⚔️ Platforms & Continuous Practice</h4>
-      <p>
-        <a href="https://tryhackme.com/p/mohitdevx"><img src="https://img.shields.io/badge/TryHackMe-Ranked_Learner-A00000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/PortSwigger_Academy-Web_Security-E0662A?style=flat-square&logo=portswigger&logoColor=white" />
-        <img src="https://img.shields.io/badge/OWASP-API_Security-000000?style=flat-square&logo=owasp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux_Labs-Bandit_Hardened-333333?style=flat-square&logo=linux&logoColor=white" />
+      <p align="center">
+        <a href="https://tryhackme.com/p/mohitdevx" target="_blank"><img src="assets/tool-tryhackme.svg" alt="TryHackMe" height="28" /></a>
+        <img src="assets/tool-portswigger.svg" alt="PortSwigger" height="28" />
+        <img src="assets/tool-owasp.svg" alt="OWASP API" height="28" />
+        <img src="assets/tool-linux.svg" alt="Linux Labs" height="28" />
       </p>
       <h4>🎯 Core Security Toolset</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nmap-004088?style=flat-square&logo=nmap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Metasploit-13294B?style=flat-square&logo=metasploit&logoColor=white" />
+      <p align="center">
+        <img src="assets/tool-burpsuite.svg" alt="Burp Suite" height="28" />
+        <img src="assets/tool-postman.svg" alt="Postman API" height="28" />
+        <img src="assets/tool-kali.svg" alt="Kali Linux" height="28" />
+        <img src="assets/tool-nmap.svg" alt="Nmap" height="28" />
+        <img src="assets/tool-wireshark.svg" alt="Wireshark" height="28" />
+        <img src="assets/tool-metasploit.svg" alt="Metasploit" height="28" />
       </p>
       <h4>🔍 Methodologies & Tradecraft</h4>
       <p>
