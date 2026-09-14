@@ -10,17 +10,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi%2C+I'm+Mohit+Kumar+%F0%9F%91%8B;Full-Stack+MERN+Developer;Cybersecurity+%26+AppSec+Enthusiast;Linux+Power+User+%26+Python+Scripter;Securing+the+Modern+Web" alt="Typing SVG" />
   </a>
 
-</div>
+  <br><br>
 
-> ### ⚡ Full-Stack Developer with a Security-First Mindset
-> 
-> Hey, I'm **Mohit Kumar** (`@mohitdevx`). I'm a full-stack developer who genuinely enjoys building scalable, dependable web applications — from crafting clean, responsive frontends to architecting reliable backends and well-structured APIs.
-> 
-> Holding a **Diploma in CSE** and currently in my **Pre-Final Year of B.Tech (IoT & Cybersecurity)**, security is a core consideration in how I write code. I apply solid cybersecurity principles throughout development — focusing on **API security testing**, hardening auth flows, protecting user data, and catching vulnerabilities early before they ever reach production.
-> 
-> I also handle everyday DevOps requirements using **Docker** and **Linux**, containerizing applications to ensure environments stay smooth and consistent from local development to deployment.
+  <p align="center">
+    Hey, I'm <strong>Mohit Kumar</strong> (<code>@mohitdevx</code>) — a full-stack developer dedicated to building scalable, dependable applications with clean APIs, robust backends, and responsive frontends.
+  </p>
 
-<div align="center">
+  <p align="center">
+    Holding a <strong>Diploma in CSE</strong> and currently in my <strong>Pre-Final Year of B.Tech (IoT & Cybersecurity)</strong>, security is baked directly into how I code. I focus on <strong>API security testing</strong>, hardening auth flows, and catching vulnerabilities early, combined with everyday DevOps containerization using <strong>Docker & Linux</strong>.
+  </p>
+
+  <br>
 
   <!-- Handcrafted Glassmorphic Platform Cards -->
   <p align="center">
