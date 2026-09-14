@@ -76,30 +76,41 @@
 
 ### 🚀 Tech Arsenal
 
-<div align="center">
-
-#### **Languages & Core Scripting**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,ts,html,css&theme=dark" alt="Languages" />
-  </a>
-</p>
-
-#### **Frontend & Backend Ecosystem**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Web Dev & DB" />
-  </a>
-</p>
-
-#### **Security, DevOps & Tooling**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,postman,vscode,figma&theme=dark" alt="Tools & Security" />
-  </a>
-</p>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="32%" valign="middle">
+      <img src="https://img.shields.io/badge/LANGUAGES-10141D?style=for-the-badge&logo=codefactor&logoColor=38BDF8" /><br>
+      <sub><strong>Core Scripting & Systems</strong><br>Python • Bash • C/C++ • JS • TS</sub>
+    </td>
+    <td width="68%" align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,ts,html,css&theme=dark" alt="Languages & Scripting" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" valign="middle">
+      <img src="https://img.shields.io/badge/FULL--STACK-10141D?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+      <sub><strong>Web Architecture & DB</strong><br>React • Next.js • Node • Express • Mongo</sub>
+    </td>
+    <td width="68%" align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Web Dev & DB" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" valign="middle">
+      <img src="https://img.shields.io/badge/SECURITY%20%26%20OPS-10141D?style=for-the-badge&logo=kalilinux&logoColor=55CDFC" /><br>
+      <sub><strong>AppSec, Environments & Tooling</strong><br>Kali • Arch • Docker • Postman • Git</sub>
+    </td>
+    <td width="68%" align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kali,linux,arch,docker,postman,git,github,vscode&theme=dark" alt="Security, Systems & DevOps" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
